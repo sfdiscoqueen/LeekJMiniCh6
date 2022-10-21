@@ -1,7 +1,7 @@
 # LeekJMiniCh6
 // Jasmine Leek
-// 20oct2022
-// Mini Challenge #6 "Odd or Even"
+// 20 oct 2022
+// Mini-Challenge #6 "Odd or Even"
 // This is a program that takes in a user's input, determines if the input is a valid number,
 // then prints out if the number entered is odd or even before asking the user if they want to play again
 
